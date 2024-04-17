@@ -11,9 +11,5 @@ def insertion_sort(arr):
         arr[j+1] = key
     return arr 
 
-# Example usage
-arr = [6,5,4,3,2,1]
-sorted_arr = insertion_sort(arr)
-print(sorted_arr)
 
 
