@@ -27,3 +27,35 @@ array = [5,3,7,2,1]
 
 array = insertion_sort(array)
 print(array)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
